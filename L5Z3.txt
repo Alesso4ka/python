@@ -1,0 +1,10 @@
+Ivanov 10000.0
+Petrov 15000.0
+Sidorov 25000.1
+Ivanova 15000.7
+Petrova 19000.9
+Sidorova 26000.1
+Demidova 30000.5
+Korenovski 26000.4
+Ledencov 12000.0
+Lazdin 31000.9
